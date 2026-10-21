@@ -1,4 +1,4 @@
-// 1. Inicio la serie con los dos primeros números
+// Inicio la serie con los dos primeros números
 const serie = [0, 1];
 
 // Uso un ciclo para calcular los 18 números restantes
